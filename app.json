@@ -22,9 +22,6 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "permissions": [
-        "SEND_SMS"
-      ],
       "package": "com.expenditureapp"
     },
     "web": {

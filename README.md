@@ -1,1 +1,3 @@
 # expenditure-app
+
+#./gradlew assembleRelease

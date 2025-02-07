@@ -1,5 +1,6 @@
 # Node.js dependencies
 .vscode/
+.expo/
 android/
 node_modules/
 
